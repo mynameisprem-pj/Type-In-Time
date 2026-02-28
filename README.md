@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/875639c1-4a58-42cf-b6c8-a2e4e08faf31
+
 ⌨️ WORDS RAIN
 
 Words Rain is a Python-based typing game built with Pygame that helps users improve their typing speed and accuracy in a fun, interactive way. Words fall from the top of the screen, and the player must type them correctly before they reach the bottom.
