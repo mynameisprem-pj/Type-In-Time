@@ -8,7 +8,7 @@ Words Rain is a Python-based typing game built with Pygame that helps users impr
 
 ## 🎥 Demo
 
-> Full gameplay with sound: [Watch Video](Type-In-Time.mp4)
+> Full gameplay with sound: [Watch Video] In the README at top 😀
 
 
 🎮 Features
