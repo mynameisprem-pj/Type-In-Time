@@ -48,6 +48,9 @@ This project is open-source and free to use for learning and personal projects.
 Prem Jha
 
 
+## ScreenShots (watch the screenshot of my app)
+- assets/screenshots/
+
 
 
 
