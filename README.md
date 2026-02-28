@@ -6,6 +6,10 @@ https://github.com/user-attachments/assets/875639c1-4a58-42cf-b6c8-a2e4e08faf31
 
 Words Rain is a Python-based typing game built with Pygame that helps users improve their typing speed and accuracy in a fun, interactive way. Words fall from the top of the screen, and the player must type them correctly before they reach the bottom.
 
+## 🎥 Demo
+
+> Full gameplay with sound: [Watch Video](Type-In-Time.mp4)
+
 
 🎮 Features
 🎯 Real-time typing gameplay
@@ -54,6 +58,20 @@ Prem Jha
 
 ## ScreenShots (watch the screenshot of my app)
 - assets/screenshots/
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/mynameisprem-pj/Type-In-Time.git
+cd Type-In-Time
+
+Install dependencies:
+pip install pygame
+
+▶️ Run the Game
+python main.py
 
 
 
